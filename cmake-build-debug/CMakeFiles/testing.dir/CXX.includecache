@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Sudoku.h
+iostream
+-
+
+/Users/oliverzhu/CS3270/project1-OliverZhu4/src/Sudoku.cpp
+Sudoku.h
+/Users/oliverzhu/CS3270/project1-OliverZhu4/src/Sudoku.h
+fstream
+-
+iostream
+-
+

@@ -1,0 +1,4 @@
+/Users/oliverzhu/CS3270/project1-OliverZhu4/cmake-build-debug/CMakeFiles/testing.dir
+/Users/oliverzhu/CS3270/project1-OliverZhu4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oliverzhu/CS3270/project1-OliverZhu4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oliverzhu/CS3270/project1-OliverZhu4/cmake-build-debug/CMakeFiles/gtest.dir
